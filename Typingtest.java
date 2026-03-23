@@ -20,4 +20,4 @@ public class TypingTest {
             System.out.println("There are mistakes.");
         }
     }
-}
+}hello
